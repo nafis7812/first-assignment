@@ -13,7 +13,7 @@ nav{
   }
   .nav-title{
     font-weight: 800;
-    font-size: 45px;
+    font-size: 26px;
   }
   nav ul li {
     list-style: none;
@@ -22,8 +22,13 @@ nav{
   nav ul{
     display: flex;
   }
+  .section-title{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+  }
   .banner{
-    width: 1280px;
+    width: 1425px;
     height: 280px;
     display: flex;
     justify-content:space-between ;
@@ -52,13 +57,14 @@ nav{
     font-family: "Fira Sans", serif;
     font-weight: 600;
     font-style: normal;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: bold;      
     color: #006A50;
     padding: 18px 35px;
     border-radius: 8px;
     border-color: #006A50;
     background-color: white;
+    margin-bottom: 30px;
   }
   .box-primary{
     background-color: #006A50;
@@ -72,3 +78,124 @@ nav{
     
 
   }
+  .pillar{
+margin-left: 160px;
+margin-top: 80px;
+  }
+  .type-container{
+    display: flex;
+    margin-left: 160px;
+    margin-right: 160px;
+    gap: 24px;
+    border-radius: 16px;
+  }
+  .type{
+    padding: 24px 24px;
+    border-radius: 16px;
+    box-shadow: 0px 6px 50px 0px whitesmoke ;
+  }
+  .type-description{
+    font-weight: medium;
+    font-size: 14px;
+    color:#a09999b6 ;
+  }
+  .pillar-description{
+    font-weight: medium;
+    font-size: 16px;
+    color: #a09999b6;
+  }
+  .vision-container{
+    
+    display: flex;
+    width: 1550px;
+    height: 325px;
+    margin-left: 0px;
+    margin-right: 180px;
+    gap: 25px;
+    border-radius: 16px;
+    padding: 32px 32px 32px 32px;
+  }
+  .vision-item{
+    padding: 24px 24px;
+    border-radius: 16px;
+    box-shadow: 0px 6px 50px 0px whitesmoke ;
+  }
+  .item-description{
+    font-weight: medium;
+    font-size: 14px;
+    color:#3d3b3b ;
+   
+    
+  }
+  .vision-item1{
+    padding: 24px 24px 32px 32px;
+    background-color: #8dabdf;
+    border-radius: 16px;
+  }
+  .vision-item2{
+    padding: 24px 24px 32px 32px;
+    background-color:#C6E4D6;
+    border-radius: 16px;
+  }
+  .vision-item3{
+    padding: 24px 24px 32px 32px;
+    background-color:#F7EBCF;
+    border-radius: 16px;
+  }
+  .btn-2{
+    border-radius:8px ;
+    padding: 11px 11px  11px 11px;
+    background-color: #09A15C;
+    color: #FFFFFF;
+    border: none;
+  }
+  .btn-1{
+    border-radius:8px ;
+    padding: 11px 11px 11px 11px;
+    background-color: #5490F5;
+    color: #FFFFFF;
+    border: none;
+  }
+  .btn-3{
+    border-radius:8px ;
+    padding: 11px 11px 11px 11px;
+    background-color: #FFC239;
+    color: #FFFFFF;
+    border: none;
+  }
+  .yunus{
+    margin-left: 160px;
+    margin-right: 160px;
+    box-shadow: 32px 80px 160px 160px whitesmoke;
+    padding: 24px 24px 24px 24px;
+    border-radius: 16px;
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+  }
+  .table-title{
+    margin-left: 160px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    padding: 12px 12px 12px 12px;
+    padding-right: 200px;
+    box-shadow: 300px 300px 200px 200px whitesmoke;
+  }
+  
+  .btn-4{
+    padding-right: 24px;
+    padding-left:  24px;
+    width: 152px;
+    height: 44px;
+    background-color: #C6E4D6;
+  }
+  .table{
+    box-shadow: 300px 300px 200px 200px whitesmoke;
+  }
+  
+  
+  
+  
+  
+ 
