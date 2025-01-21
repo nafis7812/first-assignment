@@ -193,6 +193,150 @@ margin-top: 80px;
   .table{
     box-shadow: 300px 300px 200px 200px whitesmoke;
   }
+  .satelite-1{
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color: rgb(245, 245, 245);
+    padding:24px 24px 24px 24px;
+    border-radius: 24px;
+    gap: 64px;
+  }
+  .satelite-2{
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 160px;
+    margin-right: 160px;
+    background-color: rgb(245, 245, 245);
+    padding:24px 24px 24px 24px;
+    
+    border-radius: 24px;
+    gap: 64px;
+  }
+  .satelite-section1{
+    padding-bottom: 24px;
+  }
+  .satelite-section2{
+    padding-bottom: 24px;
+  }
+  .satelite-section3{
+    padding-bottom: 24px;
+  }
+  .btn-5{
+    width: 139px;
+    height: 48px;
+    padding: 13px 13px 13px 13px;
+    border-radius: 8px;
+    background-color: #006A50;
+    font-weight: 600;
+    font-size: 13px;
+    color: #FFFFFF;
+  }
+  .pillar1{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .tk-container{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    gap: 24px;
+    border-radius: 16px;
+  }
+  .tk-box{
+    width: 240px;
+    height: 120px;
+    padding: 40px 40px 40px 40px;
+    border-radius: 16px;
+    box-shadow: 0px 6px 50px 0px whitesmoke ;
+  }
+  .tk-size{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .tk-size1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+  
+  }
+  .bg:hover{
+    background-color: #C6E4D6 ;
+  }
+  .form-box{
+    display: block;
+    width: 100%;
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 284px;
+    margin-right: 284px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFFFFF;
+    font-weight: 400px;
+    font-size: 20px;
+    
+  }
+  .txt{
+padding-left: 422px;
+padding-right: 422px;
+padding-top: 22px;
+padding-bottom: 22px;
+  }
+  .btn-6{
+    margin-left: 870px;
+    margin-right: 724px;
+    width: 151px;
+    height: 56px;
+    padding: 17px 34px 17px 34px;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  .pillar2{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .form-type{
+    width: 600px;
+    height: 55px;
+    gap:24px;
+    padding: 18px 40px 18px 40px;
+    background-color: #FFFFFF;
+    font-weight: 300px;
+    font-size: 14px;
+    margin-left: 230px;
+  }
+  .form-positon{
+    padding: 18px 40px 18px 40px;
+  }
+  .btn-7{
+    width: 150px;
+    height: 55px;
+    padding: 18px 30px 18px 40px ;
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 18px;
+    gap: 0;
+  }
+  .text-p{
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 200;
+    color: #a09999b6;
+  }
+  
   
   
   
